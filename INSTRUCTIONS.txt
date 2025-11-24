@@ -1,0 +1,46 @@
+# 🚀 SANCTUARY APP - ALL FILES IN ROOT (NO FOLDERS!)
+
+## ✅ What's Inside:
+Just 5 files - ALL in one place (no folders to confuse things!)
+
+- index.html
+- main.jsx
+- App.jsx
+- package.json
+- vite.config.js
+
+---
+
+## 📝 SUPER SIMPLE UPLOAD TO GITHUB:
+
+### Step 1: Go to your GitHub repo
+(The one you already created: melmish2-sanctuary-certified-app)
+
+### Step 2: Delete ALL old files
+- Click each file
+- Click trash icon
+- Commit delete
+- Repeat until repo is empty
+
+### Step 3: Upload these 5 files
+- Click "Add file" → "Upload files"
+- Drag ALL 5 FILES from this folder (NOT the folder itself, just the files!)
+- Commit changes
+
+### Step 4: Vercel will auto-deploy
+- Wait 2 minutes
+- Check your deployment
+- IT WILL WORK! ✅
+
+---
+
+## 🎯 Why This Works:
+
+- No folder structure to mess up
+- Everything in root directory
+- GitHub can handle it easily
+- Vercel builds perfectly
+
+---
+
+**Just upload the 5 files and you're done!** 🎉
