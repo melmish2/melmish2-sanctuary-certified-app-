@@ -1,0 +1,95 @@
+# 🏠 SANCTUARY CERTIFIED - COMPLETE VERSION
+
+## ✅ FULL FEATURE SET INCLUDED:
+
+### Property Information:
+- Address
+- Client name  
+- Assessor name
+- Date
+
+### Complete Room Assessments (7+ Measurements):
+✅ **EMF (Electromagnetic Fields)** - in milligauss (mG)
+✅ **RF (Radio Frequency)** - in mW/m²
+✅ **Air Quality** - AQI index
+✅ **Radon** - in pCi/L
+✅ **Light** - in lux
+✅ **Sound** - in decibels (dB)
+✅ **Temperature** - in °F
+✅ **Humidity** - in %
+
+### Additional Features:
+✅ **Energetic/Atmospheric Notes** - Qualitative assessment per room
+✅ **Photo Upload** - Multiple photos per room
+✅ **AI Visual Analysis** - Simulated analysis on photo upload
+✅ **Auto Recommendations** - Generated based on measurements
+✅ **Assessment History** - View all past assessments
+✅ **Detailed Reports** - Click any assessment to see full details
+✅ **Login/Signup** - Individual agent accounts
+✅ **Draft Saving** - Save work in progress
+
+### Sanctuary Branding:
+- Dark brown header (#3A2F2B)
+- Cream backgrounds (#F7F6F3)  
+- Sage green accents (#9BB598)
+- Copper/gold highlights
+- Professional typography
+
+---
+
+## 📝 DEPLOY TO GITHUB:
+
+### Step 1: Clear Your Repo
+Go to: github.com/melmish2/melmish2-sanctuary-certified-app-
+
+Delete all old files
+
+### Step 2: Upload These 5 Files:
+- App.jsx (the complete version!)
+- index.html
+- main.jsx
+- package.json
+- vite.config.js
+
+### Step 3: Vercel Auto-Deploys
+Wait 2-3 minutes and your app will be live!
+
+---
+
+## 🎯 HOW IT WORKS:
+
+### For Agents:
+1. **Login** with their account
+2. **Create Assessment:**
+   - Fill property info
+   - Add rooms (as many as needed)
+   - Enter all 7+ measurements per room
+   - Add energetic notes
+   - Upload photos (AI analyzes)
+3. **Save Draft** or **Complete Assessment**
+4. View **automatic recommendations** based on thresholds
+5. **Download PDF** (when connected to backend)
+
+### Measurement Thresholds:
+- EMF: < 3 mG ideal
+- RF: < 0.1 mW/m² ideal
+- Radon: < 2.0 pCi/L ideal
+- Temperature: 68-74°F ideal
+- Humidity: 30-50% ideal
+- Sound: < 40 dB ideal
+
+### Assessment History:
+- See all past assessments
+- Click to view full details
+- Shows recommendations
+- All measurements preserved
+- Photo info saved
+
+---
+
+## 🚀 THIS VERSION HAS EVERYTHING!
+
+No features cut. No compromises. Just deploy and use!
+
+The Melissa Merriman Team | Always Home Collective
+Sanctuary Certified Homes™
